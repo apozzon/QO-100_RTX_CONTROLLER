@@ -8,7 +8,7 @@
 
 const int cycleTime = 2000;  // in millisecondi
 const char* ssid = "SKYAP2";
-const char* password = "aaabbbcccddd";
+const char* password = "**********";  // your password
 
 AsyncWebServer server(80);
 AsyncWebSocket ws("/ws");
