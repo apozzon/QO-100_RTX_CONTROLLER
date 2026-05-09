@@ -1,0 +1,314 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ca37c620-38db-4d90-ae57-21e04d393e31")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 121.92 68.58) (xy 129.54 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "027ff200-fb73-4e2c-970e-770c828f5aae")
+	)
+	(wire
+		(pts
+			(xy 121.92 93.98) (xy 129.54 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b9aa31e-9b2d-44be-ad7b-c81f3867d13c")
+	)
+	(wire
+		(pts
+			(xy 121.92 85.09) (xy 129.54 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40712e65-7002-44e3-908a-8def328f0597")
+	)
+	(wire
+		(pts
+			(xy 121.92 60.96) (xy 129.54 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d5484d0-c310-485c-8815-ad4b47c6db28")
+	)
+	(wire
+		(pts
+			(xy 121.92 66.04) (xy 129.54 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b747c92d-ceec-4c9a-b42c-77cea928efb2")
+	)
+	(wire
+		(pts
+			(xy 121.92 63.5) (xy 129.54 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "def548d4-6c3b-4297-938e-1d016bcb8e48")
+	)
+	(wire
+		(pts
+			(xy 121.92 80.01) (xy 129.54 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1fed16a-33ef-4c13-9841-1711b3debbc0")
+	)
+	(sheet
+		(at 68.58 35.56)
+		(size 53.34 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "acb86fad-2b0d-43c1-ad07-b73ed5b198de")
+		(property "Sheetname" "Power Supply"
+			(at 68.58 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Alimentatore.kicad_sch"
+			(at 73.152 55.1798 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5Vmain" output
+			(at 121.92 60.96 0)
+			(uuid "0cf16954-db42-43d6-bddb-c29e9ff86908")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "12VPlutoOn" input
+			(at 121.92 80.01 0)
+			(uuid "3128383a-8303-416b-a399-7c9fb7b06c19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "12Vmain" output
+			(at 121.92 63.5 0)
+			(uuid "3169d728-8cdb-4c9b-b049-606167d4f401")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "18Vmain" output
+			(at 121.92 66.04 0)
+			(uuid "676bb054-51eb-4496-86e4-8efad87d3d24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" output
+			(at 121.92 93.98 0)
+			(uuid "e5e00f60-3b03-4f07-98df-978543b8ca31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "28Vmain" output
+			(at 121.92 68.58 0)
+			(uuid "25325650-1555-4c7e-964a-9a14819871f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Apow-IO03" output
+			(at 121.92 85.09 0)
+			(uuid "9b27804f-8c03-43f7-9378-e9eef5cec5da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "kiCad QO-100_V2"
+				(path "/ca37c620-38db-4d90-ae57-21e04d393e31"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 35.56)
+		(size 35.56 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d5fba7a1-05c1-447a-8c9a-a84ef2398927")
+		(property "Sheetname" "ESP32-S3-DevBoard"
+			(at 129.54 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 131.572 54.356 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5Vmain" input
+			(at 129.54 60.96 180)
+			(uuid "56b78ef4-cfe8-4f60-a7ae-75d0f4e58324")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "12Vmain" input
+			(at 129.54 63.5 180)
+			(uuid "50256eed-0688-47a3-b91d-792c456738a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "12VPlutoOn" output
+			(at 129.54 80.01 180)
+			(uuid "956be249-4757-45ab-8a25-2667e059b385")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "18Vmain" input
+			(at 129.54 66.04 180)
+			(uuid "629b457a-9c6c-4786-ba84-b92dcd8e9bb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Apow-IO03" input
+			(at 129.54 85.09 180)
+			(uuid "9ab0a5ca-e2d6-4278-933b-1a26a6c9f108")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GND" input
+			(at 129.54 93.98 180)
+			(uuid "5f1414a5-f9d2-4d96-8c49-8f226bf82157")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "28Vmain" input
+			(at 129.54 68.58 180)
+			(uuid "96641375-1f6b-4cf6-a0c0-9726cd0bd4ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "kiCad QO-100_V2"
+				(path "/ca37c620-38db-4d90-ae57-21e04d393e31"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
