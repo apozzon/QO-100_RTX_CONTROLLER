@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-F_Cu.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-B_Cu.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-F_Paste.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-B_Paste.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-F_Mask.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-B_Mask.gbr'.
+Plotted to 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Andrea.DESKTOP-IK5K4JJ\OneDrive\RADIO\Autocostruzione\OSCAR-100\kiCad QO-100_V1\QO-100_V1\QO-100_V1-job.gbrjob'.
+Info: Done.
+Info: Done.
