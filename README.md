@@ -1,6 +1,6 @@
 # QO-100_RTX_CONTROLLER
 QO-100 RTX CONTROLLER
-ESP32 CONTROLLER PER QO100
+ESP32 CONTROLLER for QO100
  	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
  	QO-100 RTX		IP		SSID		PASSW	 
  	Controller		192.168.0.214		SKYAP2		************	 
@@ -13,7 +13,7 @@ ESP32 CONTROLLER PER QO100
  	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
 
 
-
+DRAFT COPY - SOON IN ENGLISH
 
 Misure
 Parametro	Max	PIN	Note
